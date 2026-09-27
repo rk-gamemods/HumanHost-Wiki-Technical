@@ -1,6 +1,6 @@
 # Technical reference reference
 
-Release: `4c0e7085ed767ed79ddca5f8fa7727a0c87e3040e298393a6b163a7bf47ff93a`.
+Release: `1e7dec1c476ee75a57e39e1bdaba063ac8adbe8a7185f59e015e07ea26be1b4d`.
 
 Selected extracted facts. Gameplay verification and complete coverage remain unfinished.
 
@@ -27,10 +27,17 @@ Selected extracted facts. Gameplay verification and complete coverage remain unf
 - [asset/0021.md](asset/0021.md)
 - [asset/0022.md](asset/0022.md)
 - [asset/0023.md](asset/0023.md)
+- [asset/0024.md](asset/0024.md)
+- [asset/0025.md](asset/0025.md)
+- [asset/0026.md](asset/0026.md)
+- [asset/0027.md](asset/0027.md)
+- [asset/0028.md](asset/0028.md)
+- [asset/0029.md](asset/0029.md)
 - [component/0001.md](component/0001.md)
 - [component/0002.md](component/0002.md)
 - [component/0003.md](component/0003.md)
 - [component/0004.md](component/0004.md)
+- [component/0005.md](component/0005.md)
 - [configuration/0001.md](configuration/0001.md)
 - [configuration/0002.md](configuration/0002.md)
 - [configuration/0003.md](configuration/0003.md)
@@ -75,4 +82,3 @@ Selected extracted facts. Gameplay verification and complete coverage remain unf
 - [configuration/0042.md](configuration/0042.md)
 - [configuration/0043.md](configuration/0043.md)
 - [configuration/0044.md](configuration/0044.md)
-- [unclassified/0001.md](unclassified/0001.md)
