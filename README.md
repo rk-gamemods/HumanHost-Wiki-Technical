@@ -2,9 +2,8 @@
 
 Every asset identity, component types, configuration fields, tags, layers and visible coverage gaps.
 
-This repository is initialized for Human Host Wiki. Topic content is not generated yet.
-The umbrella's `project.json` owns its identity, routing and shared build contracts.
+Browse the [generated reference](reference/index.md). Coverage is partial; serialized facts are not runtime-verified gameplay claims.
 
-## Ownership
+Current prepared release: `0c355d746f9e6cfe30ec0ca83fc6fcc8c78229a0e5935f880b167eba9f450bda`. Publication is tracked separately by the hub.
 
-`asset`, `component`, `configuration`, `tag`, `layer`, `unclassified`
+Generated files are recorded in `.wiki-output.json`. Put authored explanations outside the generated `site/` and `reference/` directories.
