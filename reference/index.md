@@ -1,6 +1,6 @@
-# Technical reference reference
+# Game files reference
 
-Release: `53307f1c57a80b3a7bce5441eb1dab973ea18481d70e96655c4fd7c0e0284d1d`.
+Release: `915ada20008ca002299b60b9ab3c09d56ab3c9906cbdb0174170d1a1b032f214`.
 
 Selected extracted facts. Runtime gameplay verification is unknown unless a scoped check is shown.
 
@@ -83,3 +83,21 @@ Selected extracted facts. Runtime gameplay verification is unknown unless a scop
 - [configuration/0043.md](configuration/0043.md)
 - [configuration/0044.md](configuration/0044.md)
 - [configuration/0045.md](configuration/0045.md)
+- [configuration/0046.md](configuration/0046.md)
+- [configuration/0047.md](configuration/0047.md)
+- [configuration/0048.md](configuration/0048.md)
+- [configuration/0049.md](configuration/0049.md)
+- [configuration/0050.md](configuration/0050.md)
+- [configuration/0051.md](configuration/0051.md)
+- [configuration/0052.md](configuration/0052.md)
+- [configuration/0053.md](configuration/0053.md)
+- [configuration/0054.md](configuration/0054.md)
+- [configuration/0055.md](configuration/0055.md)
+- [configuration/0056.md](configuration/0056.md)
+- [configuration/0057.md](configuration/0057.md)
+- [configuration/0058.md](configuration/0058.md)
+- [configuration/0059.md](configuration/0059.md)
+- [configuration/0060.md](configuration/0060.md)
+- [configuration/0061.md](configuration/0061.md)
+- [configuration/0062.md](configuration/0062.md)
+- [configuration/0063.md](configuration/0063.md)
