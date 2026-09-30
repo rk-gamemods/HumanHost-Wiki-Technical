@@ -1,0 +1,20 @@
+{
+  "checked_at": "2026-09-30T01:27:00+00:00",
+  "default_status": "missing",
+  "entries": [],
+  "kinds": [],
+  "observation_id": "ab56c118b9e76401c22cde8138d284c3f9255e335f7af6fa91cd25732012059d",
+  "schema_version": 1,
+  "topics": [
+    {
+      "checked_at": "2026-09-30T01:27:00+00:00",
+      "destination": "Human Host:Guides/Modding/Game Structure",
+      "destination_revision": 539,
+      "reason": "literal-prose",
+      "revision": 539,
+      "status": "populated",
+      "title": "Human Host:Guides/Modding/Game Structure",
+      "url": "https://wiki.nerdwerx.io/index.php?title=Human+Host%3AGuides%2FModding%2FGame+Structure&oldid=539"
+    }
+  ]
+}
