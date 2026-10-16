@@ -1,6 +1,6 @@
 # Game files reference
 
-Release: `97ab95ff7f3aa2a1dec1039117b3eb9ce1733bda47509d1e15b672afb3f793fb`.
+Release: `a86bacd812a208d713372718739de2b46991fb173c4d3914be2efdd948c6a7d1`.
 
 Selected extracted facts. Runtime gameplay verification is unknown unless a scoped check is shown.
 
@@ -102,4 +102,3 @@ Selected extracted facts. Runtime gameplay verification is unknown unless a scop
 - [configuration/0062.md](configuration/0062.md)
 - [configuration/0063.md](configuration/0063.md)
 - [configuration/0064.md](configuration/0064.md)
-- [unclassified/0001.md](unclassified/0001.md)
